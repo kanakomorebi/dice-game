@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #16213E;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Gruppo', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6.5rem;
+  color: #4ECCA3;
+}
+
+p {
+  margin-top: 10%;
+  font-size: 1.5rem;
+  color: #4ECCA3;
+  font-family: 'Bungee Shade', cursive;
+}
+
+img {
+  width: 85%;
+}
+
+footer {
+  margin-top: 7%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
